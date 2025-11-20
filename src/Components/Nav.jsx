@@ -45,7 +45,7 @@ const Nav = () => {
           </li> */}
 
            <Link
-            to="#hero" 
+            to="hero" 
             smooth={true}
             duration={500}
             className="hover:text-gray-400 cursor-pointer"
